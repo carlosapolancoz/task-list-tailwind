@@ -19,7 +19,7 @@ This is a simple project to practice building a task list interface using **HTML
 ```bash
 npm install
 ```
-  1. Compile Tailwind in watch mode
+  2. Compile Tailwind in watch mode
 ```bash
 npm run tailwindDev
 ```
