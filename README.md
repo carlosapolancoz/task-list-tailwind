@@ -34,5 +34,9 @@ Defined inside `package.json`:
 ## 🧾 .gitignore
 ```bash
 node_modules/
-src/dist/
+dist/
+.env
+.DS_Store
+.vscode/
+*.log
 ```
